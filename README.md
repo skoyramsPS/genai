@@ -1,2 +1,2 @@
 # genai
-Collestion of notes and scripts related to Generative AI
+Collection of notes and scripts related to Generative AI.
