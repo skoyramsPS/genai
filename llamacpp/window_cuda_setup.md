@@ -238,3 +238,24 @@ Example: embedding model server
 llama-server.exe --model "C:\GenAI\Models\Qwen3-Embedding-0.6B-Q8_0.gguf" --port 8090 --ctx-size 32768 --batch-size 32 --threads 4
 ```
 
+
+
+
+---
+## References and Links
+
+Winget: https://learn.microsoft.com/en-us/windows/package-manager/winget
+
+Python: https://www.python.org/downloads/release/python-31212/
+
+Git: https://git-scm.com/install/windows
+
+NVIDIA Driver: https://www.nvidia.com/en-us/drivers/
+
+NVIDIA CUDA Toolkit: https://developer.nvidia.com/cuda-toolkit
+
+llama.cpp repo: https://github.com/ggml-org/llama.cpp
+
+Visual Studio 2019 VC Tools installation: https://www.cognibuild.ai/installing-visual-studio-2019
+
+Hugging Face for LLM Models: https://huggingface.co/
