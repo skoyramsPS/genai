@@ -20,7 +20,7 @@ You may download it from the official website:
 ### **1.2 llama.cpp Build and Setup**
 
 Make sure you already have a working installation of **[llama.cpp](https://github.com/ggml-org/llama.cpp)**.
-If you haven’t set it up yet, follow this guide first: **window_cuda_setup.md**.
+If you haven’t set it up yet, follow this [guide](window_cuda_setup.md) first.
 
 ---
 
